@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "Sobre A Internet das Coisas Boas", 
   "language": "por_PT", 
-  "title": "Sobre", 
+  "title": "Sobre a Internet das Coisas Boas", 
   "primary_category": null, 
   "created_at": "2016-12-15T12:56:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-15T12:58:41.983290+00:00", 
+  "modified_at": "2017-01-13T12:58:15.994075+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "sobre", 
+  "slug": "sobre-a-internet-das-coisas-boas", 
   "uuid": "657252eb9d0940bf8bab9b4dc37a367e"
 }
