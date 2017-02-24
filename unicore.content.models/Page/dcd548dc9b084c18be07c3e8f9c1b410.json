@@ -6,12 +6,12 @@
   "primary_category": "191e86cbcd794197b8e56cdeef19a71b", 
   "created_at": "2016-04-20T13:55:05+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-10-25T09:26:42.252740+00:00", 
+  "modified_at": "2017-02-24T13:57:49.915624+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "95f497eb02354b0abff45234edb613cd", 
   "published": null, 
-  "position": 20, 
+  "position": 76, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "useful-tips-newborn-babies", 
   "uuid": "dcd548dc9b084c18be07c3e8f9c1b410"
