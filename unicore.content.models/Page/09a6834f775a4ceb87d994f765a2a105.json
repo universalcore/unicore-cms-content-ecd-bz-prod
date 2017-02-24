@@ -6,12 +6,12 @@
   "primary_category": "42ba85b24adb4fedb182fb2f037a1cea", 
   "created_at": "2017-02-09T10:50:19.796347+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-09T10:50:19.796613+00:00", 
+  "modified_at": "2017-02-24T13:56:27.409221+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 24, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "untranslated-arabic-how-do-i-encourage-child-communicate", 
   "uuid": "09a6834f775a4ceb87d994f765a2a105"
